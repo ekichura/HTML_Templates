@@ -1,0 +1,12 @@
+{
+  "name": "HTMLTest.index",
+  "version": "0.0.1",
+  "description": "Provides various HTML templates for reference purposes",
+  "authors": "Ekichura",
+  "Wordpress": "https://www.thraeblog.wordpress.com",
+  "dependencies": [],
+  "modifies": [],
+  "conflicts": [],
+  "script": "HTMLTest.index",
+  "useroptions": {}
+}
